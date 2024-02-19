@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    miax-height: 100vh;
+    max-height: 100vh;
     background: hsl(0, 0%, 8%);
 }
 
@@ -112,7 +112,7 @@ a:hover{
 @media screen and (max-width: 375px) {
     .container{
         background: hsl(0, 0%, 12%);
-        margin-top: 20%;
+        margin-top: 30%;
         border-radius: 10px;
         width: 65%;
         display: flex;
